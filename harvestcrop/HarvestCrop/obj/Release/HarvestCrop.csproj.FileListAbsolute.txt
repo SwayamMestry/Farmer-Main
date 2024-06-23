@@ -1,0 +1,7 @@
+D:\Farmer-main\Farmer-main\harvestcrop\HarvestCrop\bin\Release\HarvestCrop.exe.config
+D:\Farmer-main\Farmer-main\harvestcrop\HarvestCrop\bin\Release\HarvestCrop.exe
+D:\Farmer-main\Farmer-main\harvestcrop\HarvestCrop\bin\Release\HarvestCrop.pdb
+D:\Farmer-main\Farmer-main\harvestcrop\HarvestCrop\obj\Release\HarvestCrop.csproj.AssemblyReference.cache
+D:\Farmer-main\Farmer-main\harvestcrop\HarvestCrop\obj\Release\HarvestCrop.csproj.CoreCompileInputs.cache
+D:\Farmer-main\Farmer-main\harvestcrop\HarvestCrop\obj\Release\HarvestCrop.exe
+D:\Farmer-main\Farmer-main\harvestcrop\HarvestCrop\obj\Release\HarvestCrop.pdb
