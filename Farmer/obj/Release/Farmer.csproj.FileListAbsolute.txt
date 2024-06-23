@@ -1,0 +1,7 @@
+D:\Farmer-main\Farmer\bin\Release\Farmer.exe.config
+D:\Farmer-main\Farmer\bin\Release\Farmer.exe
+D:\Farmer-main\Farmer\bin\Release\Farmer.pdb
+D:\Farmer-main\Farmer\obj\Release\Farmer.csproj.AssemblyReference.cache
+D:\Farmer-main\Farmer\obj\Release\Farmer.csproj.CoreCompileInputs.cache
+D:\Farmer-main\Farmer\obj\Release\Farmer.exe
+D:\Farmer-main\Farmer\obj\Release\Farmer.pdb
