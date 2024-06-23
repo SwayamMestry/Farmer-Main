@@ -1,0 +1,10 @@
+D:\Farmer-main\Farmer-main\fertiliser\Fertiliser\bin\Release\Fertiliser.exe.config
+D:\Farmer-main\Farmer-main\fertiliser\Fertiliser\bin\Release\Fertiliser.exe
+D:\Farmer-main\Farmer-main\fertiliser\Fertiliser\bin\Release\Fertiliser.pdb
+D:\Farmer-main\Farmer-main\fertiliser\Fertiliser\bin\Release\DocumentFormat.OpenXml.xml
+D:\Farmer-main\Farmer-main\fertiliser\Fertiliser\obj\Release\Fertiliser.csproj.AssemblyReference.cache
+D:\Farmer-main\Farmer-main\fertiliser\Fertiliser\obj\Release\Fertiliser.csproj.CoreCompileInputs.cache
+D:\Farmer-main\Farmer-main\fertiliser\Fertiliser\obj\Release\Fertiliser.csproj.Fody.CopyLocal.cache
+D:\Farmer-main\Farmer-main\fertiliser\Fertiliser\obj\Release\Fertiliser.csproj.Up2Date
+D:\Farmer-main\Farmer-main\fertiliser\Fertiliser\obj\Release\Fertiliser.exe
+D:\Farmer-main\Farmer-main\fertiliser\Fertiliser\obj\Release\Fertiliser.pdb

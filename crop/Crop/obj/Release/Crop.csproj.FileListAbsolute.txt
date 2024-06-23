@@ -1,0 +1,9 @@
+D:\Farmer-main\Farmer-main\crop\Crop\bin\Release\Crop.exe.config
+D:\Farmer-main\Farmer-main\crop\Crop\bin\Release\Crop.exe
+D:\Farmer-main\Farmer-main\crop\Crop\bin\Release\Crop.pdb
+D:\Farmer-main\Farmer-main\crop\Crop\obj\Release\Crop.csproj.AssemblyReference.cache
+D:\Farmer-main\Farmer-main\crop\Crop\obj\Release\Interop.Shell32.dll
+D:\Farmer-main\Farmer-main\crop\Crop\obj\Release\Crop.csproj.ResolveComReference.cache
+D:\Farmer-main\Farmer-main\crop\Crop\obj\Release\Crop.csproj.CoreCompileInputs.cache
+D:\Farmer-main\Farmer-main\crop\Crop\obj\Release\Crop.exe
+D:\Farmer-main\Farmer-main\crop\Crop\obj\Release\Crop.pdb
